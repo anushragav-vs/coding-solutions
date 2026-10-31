@@ -38,9 +38,9 @@ Explanation: There is no common prefix among the input strings.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 1 ms (beats 31.51%)  
-**Memory:** 19.1 MB (beats 88.27%)  
-**Submitted:** 2026-10-31T15:18:49.062Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 19.2 MB (beats 88.27%)  
+**Submitted:** 2026-10-31T16:39:40.251Z  
 
 ```py
 class Solution:
