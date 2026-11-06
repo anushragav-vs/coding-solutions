@@ -46,9 +46,9 @@ Output: [8,9,9,9,0,0,0,1]
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.1 MB  
-**Submitted:** 2026-11-06T13:56:40.206Z  
+**Runtime:** 4 ms (beats 52.21%)  
+**Memory:** 19.1 MB (beats 96.46%)  
+**Submitted:** 2026-11-06T13:56:46.762Z  
 
 ```py
 class Solution:
