@@ -46,16 +46,11 @@ Output: [8,9,9,9,0,0,0,1]
 ## Solution
 
 **Language:** Python  
-**Runtime:** 6 ms (beats 29.71%)  
-**Memory:** 19.1 MB (beats 88.26%)  
-**Submitted:** 2026-11-06T13:56:06.814Z  
+**Runtime:** 0 ms  
+**Memory:** 19.1 MB  
+**Submitted:** 2026-11-06T13:56:40.206Z  
 
 ```py
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
         dummy = ListNode()
